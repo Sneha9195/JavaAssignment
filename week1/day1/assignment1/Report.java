@@ -4,6 +4,7 @@ public class Report {
 	
    public static void main(String[] args) {
 	Student st = new Student();
+	   st.main(args);
 	
 
 	
